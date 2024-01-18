@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+}
+
+.container-fluid a {
+    font-size: larger;
+}
+
+.dflex {
+    color: blue;
+}
